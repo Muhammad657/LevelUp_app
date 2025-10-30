@@ -1,0 +1,2708 @@
+[
+  {
+    "name": "Stanford University",
+    "location": "Stanford, California",
+    "acceptanceRate": "3.9%",
+    "tuition": "$65,127 (tuition, 2024-25 annual tuition based on $21,709/quarter)",
+    "tuitionAmount": 65127,
+    "avgGPA": 3.96,
+    "satScore": 1540,
+    "size": "Medium",
+    "testOptional": false,
+    "campusSetting": "Suburban",
+    "studentPopulation": "Large",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Computer Science",
+      "Engineering",
+      "Business",
+      "Biology",
+      "Psychology"
+    ],
+    "specializedPrograms": [
+      "Honors Program",
+      "Undergraduate Research",
+      "Study Abroad"
+    ],
+    "deadline": "January 5"
+  },
+
+  {
+    "name": "Massachusetts Institute of Technology (MIT)",
+    "location": "Cambridge, Massachusetts",
+    "acceptanceRate": "4.5%",
+    "tuition": "$61,990 (tuition & fees, 2024-25 estimate listed in MIT facts/CDS)",
+    "tuitionAmount": 61990,
+    "avgGPA": 4.19,
+    "satScore": 1550,
+    "size": "Medium",
+    "testOptional": false,
+    "campusSetting": "Urban",
+    "studentPopulation": "Medium",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Physics",
+      "Mathematics"
+    ],
+    "specializedPrograms": [
+      "UROP (Undergraduate Research)",
+      "Co-Terminal Master's",
+      "Global Programs"
+    ],
+    "deadline": "January 1"
+  },
+  {
+    "name": "Harvard University",
+    "location": "Cambridge, Massachusetts",
+    "acceptanceRate": "≈3.5%",
+    "tuition": "$56,550 (tuition, 2024-25 reported undergraduate tuition figure)",
+    "tuitionAmount": 56550,
+    "avgGPA": 3.95,
+    "satScore": 1540,
+    "size": "Medium",
+    "testOptional": false,
+    "campusSetting": "Urban",
+    "studentPopulation": "Large",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Economics",
+      "Government",
+      "Biology",
+      "Computer Science",
+      "History"
+    ],
+    "specializedPrograms": [
+      "Research Fellowships",
+      "Study Abroad",
+      "Language Programs"
+    ],
+    "deadline": "January 1"
+  },
+
+  {
+    "name": "University of California, Berkeley",
+    "location": "Berkeley, California",
+    "acceptanceRate": "11%",
+    "tuition": "$14,395 (in-state tuition, 2024-25)",
+    "tuitionAmount": 14395,
+    "avgGPA": 3.95,
+    "satScore": 1415,
+    "size": "Large",
+    "testOptional": true,
+    "campusSetting": "Urban/Suburban",
+    "studentPopulation": "Large",
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": [
+      "Computer Science",
+      "Engineering",
+      "Economics",
+      "Biology",
+      "Political Science"
+    ],
+    "specializedPrograms": [
+      "Undergraduate Research",
+      "College Honors",
+      "Study Abroad"
+    ],
+    "deadline": "November 30 (UC application)"
+  },
+  {
+    "name": "University of California, Los Angeles (UCLA)",
+    "location": "Los Angeles, California",
+    "acceptanceRate": "9% (overall recent figures)",
+    "tuition": "$43,137 (total estimated budget for CA residents 2024-25; nonresident total much higher)",
+    "tuitionAmount": 43137,
+    "avgGPA": 4.0,
+    "satScore": 1400,
+    "size": "Large",
+    "testOptional": true,
+    "campusSetting": "Urban",
+    "studentPopulation": "Large",
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": [
+      "Biology",
+      "Psychology",
+      "Business Economics",
+      "Computer Science",
+      "Film"
+    ],
+    "specializedPrograms": [
+      "Undergraduate Research",
+      "Honors Program",
+      "Study Abroad"
+    ],
+    "deadline": "November 30 (UC application)"
+  },
+  {
+    "name": "University of Michigan (Ann Arbor)",
+    "location": "Ann Arbor, Michigan",
+    "acceptanceRate": "≈16–18% (varies by year/program)",
+    "tuition": "$17,948 (in-state tuition 2024-25; out-of-state higher)",
+    "tuitionAmount": 17948,
+    "avgGPA": 3.9,
+    "satScore": 1460,
+    "size": "Large",
+    "testOptional": true,
+    "campusSetting": "College town/Suburban",
+    "studentPopulation": "Large",
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": [
+      "Engineering",
+      "Business (Ross)",
+      "Computer Science",
+      "Psychology",
+      "Biology"
+    ],
+    "specializedPrograms": [
+      "Ross Programs",
+      "Undergraduate Research",
+      "Honors"
+    ],
+    "deadline": "February 1 (varies by program)"
+  },
+  {
+    "name": "Carnegie Mellon University",
+    "location": "Pittsburgh, Pennsylvania",
+    "acceptanceRate": "≈11%",
+    "tuition": "$68,096 (full undergraduate tuition & fees estimate 2024-25)",
+    "tuitionAmount": 68096,
+    "avgGPA": 3.91,
+    "satScore": 1540,
+    "size": "Medium",
+    "testOptional": false,
+    "campusSetting": "Urban",
+    "studentPopulation": "Medium",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": ["Computer Science", "Engineering", "Design", "Business", "Arts"],
+    "specializedPrograms": [
+      "Co-op/Internship Opportunities",
+      "Interdisciplinary Programs",
+      "Undergraduate Research"
+    ],
+    "deadline": "January 5 (varies by school/program)"
+  },
+  {
+    "name": "The University of Texas at Austin",
+    "location": "Austin, Texas",
+    "acceptanceRate": "≈29% (overall recent figure; in-state vs out-of-state vary widely)",
+    "tuition": "$11,198 (in-state tuition, 2024-25)",
+    "tuitionAmount": 11198,
+    "avgGPA": 3.83,
+    "satScore": 1355,
+    "size": "Large",
+    "testOptional": false,
+    "campusSetting": "Urban",
+    "studentPopulation": "Large",
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": [
+      "Engineering",
+      "Business (McCombs)",
+      "Computer Science",
+      "Communications",
+      "Biology"
+    ],
+    "specializedPrograms": ["Honors Programs", "Study Abroad", "Research"],
+    "deadline": "December 1 (regular)"
+  },
+  {
+    "name": "New York University (NYU)",
+    "location": "New York, New York",
+    "acceptanceRate": "≈9–10%",
+    "tuition": "$62,796 (undergraduate tuition, 2024-25 CDS)",
+    "tuitionAmount": 62796,
+    "avgGPA": 3.81,
+    "satScore": 1520,
+    "size": "Large",
+    "testOptional": true,
+    "campusSetting": "Urban",
+    "studentPopulation": "Large",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Economics",
+      "Business (Stern)",
+      "Computer Science",
+      "Film",
+      "Psychology"
+    ],
+    "specializedPrograms": [
+      "Global Network Campuses",
+      "Professional Programs (Stern)",
+      "Study Abroad"
+    ],
+    "deadline": "January 5"
+  },
+  {
+    "name": "University of Washington (Seattle)",
+    "location": "Seattle, Washington",
+    "acceptanceRate": "≈39% (overall recent figure)",
+    "tuition": "$12,973 (undergraduate tuition & fees, Washington residents, 2024-25)",
+    "tuitionAmount": 12973,
+    "avgGPA": 3.8,
+    "satScore": 1385,
+    "size": "Large",
+    "testOptional": true,
+    "campusSetting": "Urban",
+    "studentPopulation": "Large",
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": [
+      "Computer Science",
+      "Engineering",
+      "Business",
+      "Biology",
+      "Nursing"
+    ],
+    "specializedPrograms": [
+      "Undergraduate Research",
+      "Honors",
+      "Global Exchange"
+    ],
+    "deadline": "November 15"
+  },
+  {
+    "name": "Princeton University",
+    "location": "Princeton, New Jersey",
+    "acceptanceRate": "≈5%",
+    "tuition": "$65,210 (tuition, 2025-26)",
+    "tuitionAmount": 65210,
+    "avgGPA": 3.9,
+    "satScore": 1520,
+    "size": "Medium",
+    "testOptional": false,
+    "campusSetting": "Suburban",
+    "studentPopulation": "Medium",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Economics",
+      "Computer Science",
+      "Engineering",
+      "Physics",
+      "Molecular Biology"
+    ],
+    "specializedPrograms": [
+      "Undergraduate Research",
+      "Independent Work (Senior Thesis)",
+      "Study Abroad"
+    ],
+    "deadline": "January 1"
+  },
+  {
+    "name": "California Institute of Technology (Caltech)",
+    "location": "Pasadena, California",
+    "acceptanceRate": "≈2.6% (2024)",
+    "tuition": "$6,080 per term (for 10 units) × 3 terms = ~$18,240 (base tuition)",
+    "tuitionAmount": 18240,
+    "avgGPA": 4.0,
+    "satScore": 1560,
+    "size": "Small",
+    "testOptional": false,
+    "campusSetting": "Suburban",
+    "studentPopulation": "Small",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Physics",
+      "Engineering",
+      "Computer Science",
+      "Chemistry",
+      "Applied Mathematics"
+    ],
+    "specializedPrograms": [
+      "Interdisciplinary Research",
+      "Summer Undergraduate Research",
+      "Caltech’s Honor System"
+    ],
+    "deadline": "January 3"
+  },
+  {
+    "name": "University of Chicago",
+    "location": "Chicago, Illinois",
+    "acceptanceRate": "≈5%",
+    "tuition": "$67,446 (annual undergraduate tuition)",
+    "tuitionAmount": 67446,
+    "avgGPA": 3.9,
+    "satScore": 1520,
+    "size": "Medium",
+    "testOptional": false,
+    "campusSetting": "Urban",
+    "studentPopulation": "Medium",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Economics",
+      "Political Science",
+      "Mathematics",
+      "Physics",
+      "Biological Sciences"
+    ],
+    "specializedPrograms": [
+      "Chicago Studies",
+      "Civic Leadership Program",
+      "Undergraduate Research"
+    ],
+    "deadline": "January 5"
+  },
+  {
+    "name": "Columbia University",
+    "location": "New York, New York",
+    "acceptanceRate": "≈4% ",
+    "tuition": "$68,000 (private tuition before aid)",
+    "tuitionAmount": 68000,
+    "avgGPA": 3.9,
+    "satScore": 1530,
+    "size": "Medium",
+    "testOptional": false,
+    "campusSetting": "Urban",
+    "studentPopulation": "Large",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Economics",
+      "Political Science",
+      "Computer Science",
+      "Sociology",
+      "History"
+    ],
+    "specializedPrograms": [
+      "Core Curriculum",
+      "Global Centers / Study Abroad",
+      "Undergraduate Research"
+    ],
+    "deadline": "January 1"
+  },
+  {
+    "name": "Yale University",
+    "location": "New Haven, Connecticut",
+    "acceptanceRate": "≈5% ",
+    "tuition": "$69,900 (tuition & fees, 2025-26)",
+    "tuitionAmount": 69900,
+    "avgGPA": 4.0,
+    "satScore": 1540,
+    "size": "Medium",
+    "testOptional": false,
+    "campusSetting": "Urban/Suburban",
+    "studentPopulation": "Medium",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Psychology",
+      "Economics",
+      "English",
+      "Molecular Biology",
+      "Political Science"
+    ],
+    "specializedPrograms": [
+      "Directed Studies",
+      "Undergraduate Research",
+      "Yale’s Global Programs"
+    ],
+    "deadline": "January 2"
+  },
+  {
+    "name": "University of Pennsylvania (Penn)",
+    "location": "Philadelphia, Pennsylvania",
+    "acceptanceRate": "≈6%",
+    "tuition": "$60,920 (tuition & fees)",
+    "tuitionAmount": 60920,
+    "avgGPA": 3.9,
+    "satScore": 1530,
+    "size": "Large",
+    "testOptional": false,
+    "campusSetting": "Urban",
+    "studentPopulation": "Large",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Business (Wharton)",
+      "Economics",
+      "Biology",
+      "Engineering",
+      "Computer Science"
+    ],
+    "specializedPrograms": [
+      "Integrated Studies Program",
+      "Penn Abroad",
+      "Undergraduate Research"
+    ],
+    "deadline": "January 5"
+  },
+  {
+    "name": "Duke University",
+    "location": "Durham, North Carolina",
+    "acceptanceRate": "≈6–7% ",
+    "tuition": "$70,265 (tuition before aid)",
+    "tuitionAmount": 70265,
+    "avgGPA": 3.9,
+    "satScore": 1520,
+    "size": "Medium",
+    "testOptional": false,
+    "campusSetting": "Suburban",
+    "studentPopulation": "Medium",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Biomedical Engineering",
+      "Economics",
+      "Political Science",
+      "Computer Science",
+      "Psychology"
+    ],
+    "specializedPrograms": [
+      "Duke TIP Programs",
+      "Lundquist Scholars",
+      "Research Fellowships"
+    ],
+    "deadline": "January 3"
+  },
+  {
+    "name": "Georgia Institute of Technology (Georgia Tech)",
+    "location": "Atlanta, Georgia",
+    "acceptanceRate": "≈16% overall; in-state ~30%, out-of-state ~9%",
+    "tuition": "$10,512 (in-state, 2025-26)",
+    "tuitionAmount": 10512,
+    "avgGPA": 3.8,
+    "satScore": 1460,
+    "size": "Large",
+    "testOptional": false,
+    "campusSetting": "Urban",
+    "studentPopulation": "Large",
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Biomedical Engineering",
+      "Industrial Engineering"
+    ],
+    "specializedPrograms": [
+      "Cooperative Education (Co-op)",
+      "Undergraduate Research",
+      "International Exchange Programs"
+    ],
+    "deadline": "January 5"
+  },
+  {
+    "name": "Brown University",
+    "location": "Providence, Rhode Island",
+    "acceptanceRate": "≈5.5% (recent) *",
+    "tuition": "$63,600 (approximate recent tuition) *",
+    "tuitionAmount": 63600,
+    "avgGPA": 3.9,
+    "satScore": 1520,
+    "size": "Medium",
+    "testOptional": true,
+    "campusSetting": "Urban/Suburban",
+    "studentPopulation": "Medium",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Economics",
+      "Computer Science",
+      "English",
+      "Biology",
+      "Engineering"
+    ],
+    "specializedPrograms": [
+      "Open Curriculum",
+      "Undergraduate Research",
+      "Study Abroad"
+    ],
+    "deadline": "January 1"
+  },
+  {
+    "name": "Cornell University",
+    "location": "Ithaca, New York",
+    "acceptanceRate": "≈8% *",
+    "tuition": "$62,456 (approximate recent tuition) *",
+    "tuitionAmount": 62456,
+    "avgGPA": 3.8,
+    "satScore": 1500,
+    "size": "Large",
+    "testOptional": false,
+    "campusSetting": "Rural/Suburban",
+    "studentPopulation": "Large",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Engineering",
+      "Computer Science",
+      "Business",
+      "Biology",
+      "Hotel Administration"
+    ],
+    "specializedPrograms": [
+      "CU Study Abroad",
+      "Undergraduate Research",
+      "Cross-College Programs"
+    ],
+    "deadline": "January 2"
+  },
+  {
+    "name": "Abraham Baldwin Agricultural College",
+    "location": "Tifton, Georgia",
+    "acceptanceRate": "≈ 79% *",
+    "tuition": "$3,076 per semester (in-state undergraduate tuition shown on official cost page) *",
+    "tuitionAmount": 3076,
+    "avgGPA": null,
+    "satScore": null,
+    "size": "Small/Medium",
+    "testOptional": true,
+    "campusSetting": "Rural",
+    "studentPopulation": "Small/Medium",
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": [
+      "Agriculture",
+      "Business",
+      "Nursing",
+      "Criminal Justice",
+      "Biological Sciences"
+    ],
+    "specializedPrograms": [
+      "Associate and Bachelor's programs with transfer pathways",
+      "Agricultural technical training",
+      "Campus-based student support services"
+    ],
+    "deadline": "Rolling / check program pages"
+  },
+  {
+    "name": "Academy of Art University",
+    "location": "San Francisco, California",
+    "acceptanceRate": "≈ 100% *",
+    "tuition": "$1,301 per unit (undergraduate domestic, 2025–2026 rate shown on official cost page) *",
+    "tuitionAmount": null,
+    "avgGPA": null,
+    "satScore": null,
+    "size": "Medium",
+    "testOptional": true,
+    "campusSetting": "Urban",
+    "studentPopulation": "Medium",
+    "publicPrivate": "Private (for-profit)",
+    "financialAidAvailable": true,
+    "majors": [
+      "Graphic Design",
+      "Animation",
+      "Illustration",
+      "Photography",
+      "Fine Arts"
+    ],
+    "specializedPrograms": [
+      "Low-residency and online options",
+      "Intensive studio curriculum",
+      "Professional placement/support"
+    ],
+    "deadline": "Rolling (program dependent)"
+  },
+  {
+    "name": "Academy of Vocal Arts",
+    "location": "Philadelphia, Pennsylvania",
+    "acceptanceRate": null,
+    "tuition": "No tuition for Resident Artists (full-tuition scholarship model); students are responsible for living expenses *",
+    "tuitionAmount": 0,
+    "avgGPA": null,
+    "satScore": null,
+    "size": "Very Small",
+    "testOptional": null,
+    "campusSetting": "Urban",
+    "studentPopulation": "Very Small",
+    "publicPrivate": "Private (specialized conservatory)",
+    "financialAidAvailable": true,
+    "majors": [
+      "Opera / Classical Voice (Certificate and Artist Diploma level)"
+    ],
+    "specializedPrograms": [
+      "Artist-in-Residence performance training",
+      "Intensive voice performance curriculum"
+    ],
+    "deadline": "Audition / application windows (program specific)"
+  },
+  {
+    "name": "Adams State University",
+    "location": "Alamosa, Colorado",
+    "acceptanceRate": null,
+    "tuition": "$9,775 annual resident tuition & fees (example resident figure shown on official 'Value & Affordability' page) *",
+    "tuitionAmount": 9775,
+    "avgGPA": null,
+    "satScore": null,
+    "size": "Small/Medium",
+    "testOptional": true,
+    "campusSetting": "Rural/Mountain",
+    "studentPopulation": "Small/Medium",
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": [
+      "Education",
+      "Business",
+      "Nursing",
+      "Psychology",
+      "Criminal Justice"
+    ],
+    "specializedPrograms": [
+      "Teacher preparation programs",
+      "Outdoor and environmental studies offerings"
+    ],
+    "deadline": "Rolling (check program pages)"
+  },
+  {
+    "name": "Adelphi University",
+    "location": "Garden City / Long Island, New York",
+    "acceptanceRate": "≈ 66% *",
+    "tuition": "Undergraduate tuition varies by program (see official One Stop tuition page); typical full-time annual tuition listed on the university site for the current year *",
+    "tuitionAmount": null,
+    "avgGPA": null,
+    "satScore": null,
+    "size": "Medium/Large",
+    "testOptional": true,
+    "campusSetting": "Suburban (Long Island)",
+    "studentPopulation": "Medium/Large",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Nursing",
+      "Business",
+      "Psychology",
+      "Education",
+      "Performing Arts"
+    ],
+    "specializedPrograms": [
+      "Honors College",
+      "Professional programs in health and education"
+    ],
+    "deadline": "Rolling / check specific program deadlines"
+  },
+  {
+    "name": "Adler Graduate School",
+    "location": "Minnetonka, Minnesota",
+    "acceptanceRate": null,
+    "tuition": null,
+    "tuitionAmount": null,
+    "avgGPA": null,
+    "satScore": null,
+    "size": "Small",
+    "testOptional": null,
+    "campusSetting": "Suburban",
+    "studentPopulation": "Small",
+    "publicPrivate": "Private (graduate school)",
+    "financialAidAvailable": true,
+    "majors": [
+      "Counseling",
+      "Clinical Mental Health (graduate professional degrees)"
+    ],
+    "specializedPrograms": [
+      "Professional counseling master’s and certificate programs",
+      "Evening/part-time schedules"
+    ],
+    "deadline": "Program-specific (check admissions page)"
+  },
+  {
+    "name": "Adler University",
+    "location": "Chicago, Illinois (main) — with other campuses)",
+    "acceptanceRate": null,
+    "tuition": "Graduate tuition shown per program on the official tuition page (Adler University lists per-credit and program estimates) *",
+    "tuitionAmount": null,
+    "avgGPA": null,
+    "satScore": null,
+    "size": "Medium",
+    "testOptional": null,
+    "campusSetting": "Urban",
+    "studentPopulation": "Medium",
+    "publicPrivate": "Private (nonprofit graduate university)",
+    "financialAidAvailable": true,
+    "majors": [
+      "Clinical Psychology",
+      "Counseling",
+      "Forensic Psychology",
+      "Social Work"
+    ],
+    "specializedPrograms": [
+      "Clinical psychology doctoral programs",
+      "Forensic and community psychology specializations"
+    ],
+    "deadline": "Program deadlines vary (see admissions pages)"
+  },
+  {
+    "name": "Agnes Scott College",
+    "location": "Decatur, Georgia",
+    "acceptanceRate": "≈ 67%",
+    "tuition": "$50,604 (2024–25 undergraduate tuition & fees)",
+    "tuitionAmount": 50604,
+    "avgGPA": 3.7,
+    "satScore": 1270,
+    "size": "Small",
+    "testOptional": true,
+    "campusSetting": "Suburban",
+    "studentPopulation": "≈1,000 undergraduates",
+    "publicPrivate": "Private (women’s liberal arts)",
+    "financialAidAvailable": true,
+    "majors": [
+      "Biology",
+      "Psychology",
+      "Public Health",
+      "English",
+      "Political Science"
+    ],
+    "specializedPrograms": [
+      "SUMMIT Global Learning Curriculum",
+      "Leadership Development",
+      "Study Abroad"
+    ],
+    "deadline": "May 1"
+  },
+  {
+    "name": "Albany College of Pharmacy and Health Sciences",
+    "location": "Albany, New York",
+    "acceptanceRate": "≈ 59%",
+    "tuition": "$41,475 (2024–25 undergraduate tuition & fees)",
+    "tuitionAmount": 41475,
+    "avgGPA": 3.5,
+    "satScore": 1270,
+    "size": "Small",
+    "testOptional": true,
+    "campusSetting": "Urban",
+    "studentPopulation": "≈1,200 students",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Pharmacy",
+      "Biomedical Sciences",
+      "Public Health",
+      "Microbiology",
+      "Clinical Laboratory Sciences"
+    ],
+    "specializedPrograms": [
+      "Doctor of Pharmacy (PharmD)",
+      "Early Assurance Programs",
+      "Undergraduate Research"
+    ],
+    "deadline": "May 1"
+  },
+  {
+    "name": "Aiken Technical College",
+    "location": "Graniteville, South Carolina",
+    "acceptanceRate": "≈ 100%",
+    "tuition": "$200 per credit hour (in-district, 2024–25)",
+    "tuitionAmount": null,
+    "avgGPA": null,
+    "satScore": null,
+    "size": "Small/Medium",
+    "testOptional": true,
+    "campusSetting": "Suburban/Rural",
+    "studentPopulation": "≈2,200 students",
+    "publicPrivate": "Public (community college)",
+    "financialAidAvailable": true,
+    "majors": [
+      "Nursing",
+      "Industrial Technology",
+      "Computer Technology",
+      "Business",
+      "General Studies"
+    ],
+    "specializedPrograms": [
+      "Dual Enrollment",
+      "Technical Scholars Program",
+      "Workforce Development"
+    ],
+    "deadline": "Rolling Admissions"
+  },
+  {
+    "name": "Alabama College of Osteopathic Medicine",
+    "location": "Dothan, Alabama",
+    "acceptanceRate": "≈ 5%",
+    "tuition": "$59,388 (annual tuition, 2024–25)",
+    "tuitionAmount": 59388,
+    "avgGPA": 3.38,
+    "satScore": null,
+    "size": "Small (graduate-only)",
+    "testOptional": false,
+    "campusSetting": "Rural",
+    "studentPopulation": "≈800 medical students",
+    "publicPrivate": "Private (DO medical school)",
+    "financialAidAvailable": true,
+    "majors": ["Doctor of Osteopathic Medicine (DO)"],
+    "specializedPrograms": [
+      "Clinical Rotations with Southeast Health",
+      "Community-based Medical Education",
+      "Simulation Training"
+    ],
+    "deadline": "Varies (AACOMAS cycle deadlines)"
+  },
+  {
+    "name": "American University",
+    "location": "Washington, D.C.",
+    "acceptanceRate": "≈ 47%",
+    "tuition": "$57,952 (2024–25 full-time undergraduate flat tuition)",
+    "tuitionAmount": 57952,
+    "avgGPA": 3.6,
+    "satScore": 1290,
+    "size": "Medium/Large",
+    "testOptional": true,
+    "campusSetting": "Suburban (Washington, DC)",
+    "studentPopulation": "≈14,000 total (undergrad + grad)",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "International Relations",
+      "Public Policy",
+      "Business (Kogod School)",
+      "Communication",
+      "Psychology"
+    ],
+    "specializedPrograms": [
+      "Washington DC internships & policy externships",
+      "Kogod Business programs",
+      "School of International Service programs"
+    ],
+    "deadline": "May 1 (regular decision typical; check specific program pages)"
+  },
+  {
+    "name": "Amherst College",
+    "location": "Amherst, Massachusetts",
+    "acceptanceRate": "≈ 9%",
+    "tuition": "$73,140 (2025–26 published tuition — comprehensive charge $92,400 incl. room/board)",
+    "tuitionAmount": 73140,
+    "avgGPA": null,
+    "satScore": null,
+    "size": "Small (liberal arts)",
+    "testOptional": true,
+    "campusSetting": "Rural/Suburban",
+    "studentPopulation": "≈1,900 undergraduates",
+    "publicPrivate": "Private (liberal arts)",
+    "financialAidAvailable": true,
+    "majors": [
+      "Economics",
+      "Biology",
+      "Political Science",
+      "English",
+      "Computer Science"
+    ],
+    "specializedPrograms": [
+      "Common Curriculum / open curriculum features",
+      "Strong off-campus study programs",
+      "Cooperative programs with nearby Five College consortium"
+    ],
+    "deadline": "Varies (Early decision/Regular decision dates; Commonly Jan 1 / Early Nov — check Amherst CDS)"
+  },
+  {
+    "name": "Albany Medical College",
+    "location": "Albany, New York",
+    "acceptanceRate": "≈ 1–2% (highly selective for MD applicants)",
+    "tuition": "$58,750 (approx. MD program tuition, 2024–25)",
+    "tuitionAmount": 58750,
+    "avgGPA": 3.8,
+    "satScore": null,
+    "size": "Very small (medical school)",
+    "testOptional": false,
+    "campusSetting": "Urban",
+    "studentPopulation": "≈140 matriculants per incoming class (varies)",
+    "publicPrivate": "Private (medical school)",
+    "financialAidAvailable": true,
+    "majors": ["Doctor of Medicine (MD)", "Graduate biomedical programs"],
+    "specializedPrograms": [
+      "Clinical training with Albany Med",
+      "Research in biomedical sciences",
+      "Early assurance/combined programs (program-specific)"
+    ],
+    "deadline": "Follows AACOMAS/AAMC cycles (check AMC admissions page for current cycle deadlines)"
+  },
+  {
+    "name": "Albany State University",
+    "location": "Albany, Georgia",
+    "acceptanceRate": "≈ 67%",
+    "tuition": "$5,220 (in-state undergraduate tuition per year shown on schedules; out-of-state higher)",
+    "tuitionAmount": 5220,
+    "avgGPA": 3.2,
+    "satScore": null,
+    "size": "Medium",
+    "testOptional": true,
+    "campusSetting": "Urban",
+    "studentPopulation": "≈6,000 students",
+    "publicPrivate": "Public (HBCU)",
+    "financialAidAvailable": true,
+    "majors": [
+      "Education",
+      "Business",
+      "Nursing",
+      "Criminal Justice",
+      "Biology"
+    ],
+    "specializedPrograms": [
+      "Strong teacher education programs",
+      "HBCU support services and scholarships",
+      "Transfer & adult learner pathways"
+    ],
+    "deadline": "Rolling / program-specific deadlines listed on the registrar/admissions site"
+  },
+  {
+    "name": "Allegheny College",
+    "location": "Meadville, Pennsylvania",
+    "acceptanceRate": "≈ 55–59%",
+    "tuition": "$56,550 (tuition & fees 2024–25)",
+    "tuitionAmount": 56550,
+    "avgGPA": 3.5,
+    "satScore": 1245,
+    "size": "Small/Medium (liberal arts)",
+    "testOptional": true,
+    "campusSetting": "Rural/Suburban",
+    "studentPopulation": "≈2,000 undergraduates",
+    "publicPrivate": "Private (liberal arts)",
+    "financialAidAvailable": true,
+    "majors": [
+      "Biology",
+      "Psychology",
+      "Economics",
+      "Computer Science",
+      "English"
+    ],
+    "specializedPrograms": [
+      "Commitment to Access Program (tuition support for qualifying PA/OH families)",
+      "Strong internship & career placement",
+      "Undergraduate research emphasis"
+    ],
+    "deadline": "Rolling (check specifics; Early Decision/Early Action dates vary)"
+  },
+  {
+    "name": "Alcorn State University",
+    "location": "Lorman, Mississippi",
+    "acceptanceRate": "≈ 25–45% (sources vary; broadly moderately selective for state HBCU)",
+    "tuition": "$7,869 (in-state per term example shown historically; check current annual schedule)",
+    "tuitionAmount": 7869,
+    "avgGPA": 3.3,
+    "satScore": null,
+    "size": "Medium",
+    "testOptional": null,
+    "campusSetting": "Rural",
+    "studentPopulation": "≈3,500–4,500",
+    "publicPrivate": "Public (HBCU)",
+    "financialAidAvailable": true,
+    "majors": [
+      "Agriculture",
+      "Education",
+      "Business",
+      "Nursing",
+      "Engineering Technology"
+    ],
+    "specializedPrograms": [
+      "Land-grant agricultural programs",
+      "Teacher preparation",
+      "Community engagement initiatives"
+    ],
+    "deadline": "Rolling (check admissions for program-specific deadlines)"
+  },
+  {
+    "name": "Anderson University (Indiana)",
+    "location": "Anderson, Indiana",
+    "acceptanceRate": "≈ 62%",
+    "tuition": "$36,900 (undergraduate, 2024–25)",
+    "tuitionAmount": 36900,
+    "avgGPA": 3.4,
+    "satScore": 1170,
+    "size": "Small/Medium",
+    "testOptional": true,
+    "campusSetting": "Suburban",
+    "studentPopulation": "≈3,000",
+    "publicPrivate": "Private (Christian)",
+    "financialAidAvailable": true,
+    "majors": [
+      "Business",
+      "Education",
+      "Nursing",
+      "Engineering",
+      "Arts & Sciences"
+    ],
+    "specializedPrograms": [
+      "Honors Program",
+      "Study Abroad Options",
+      "Professional Accelerated Programs"
+    ],
+    "deadline": "Rolling (check specific programs)"
+  },
+  {
+    "name": "Anderson University (South Carolina)",
+    "location": "Anderson, South Carolina",
+    "acceptanceRate": "≈ 67%",
+    "tuition": "$33,200 (undergraduate, 2024–25)",
+    "tuitionAmount": 33200,
+    "avgGPA": 3.3,
+    "satScore": 1120,
+    "size": "Small/Medium",
+    "testOptional": true,
+    "campusSetting": "Suburban",
+    "studentPopulation": "≈3,200",
+    "publicPrivate": "Private (Christian)",
+    "financialAidAvailable": true,
+    "majors": [
+      "Business",
+      "Education",
+      "Nursing",
+      "Sciences",
+      "Arts & Humanities"
+    ],
+    "specializedPrograms": [
+      "Accelerated Programs",
+      "Teacher Education Programs",
+      "Study Abroad Options"
+    ],
+    "deadline": "Rolling (check program specifics)"
+  },
+  {
+    "name": "Andrews University",
+    "location": "Berrien Springs, Michigan",
+    "acceptanceRate": "≈ 63%",
+    "tuition": "$36,900 (undergraduate, 2024–25)",
+    "tuitionAmount": 36900,
+    "avgGPA": 3.4,
+    "satScore": 1160,
+    "size": "Medium",
+    "testOptional": true,
+    "campusSetting": "Rural/Suburban",
+    "studentPopulation": "≈3,500",
+    "publicPrivate": "Private (Adventist)",
+    "financialAidAvailable": true,
+    "majors": [
+      "Business",
+      "Engineering",
+      "Nursing",
+      "Theology & Religion",
+      "Arts & Sciences"
+    ],
+    "specializedPrograms": [
+      "Health Professions Programs",
+      "Global Learning & Mission Programs",
+      "Honors Program"
+    ],
+    "deadline": "Rolling (early action optional)"
+  },
+  {
+    "name": "Arizona State University",
+    "location": "Tempe, Arizona",
+    "acceptanceRate": "≈ 85%",
+    "tuition": "$12,852 (in-state, undergraduate, 2024–25)",
+    "tuitionAmount": 12852,
+    "avgGPA": 3.4,
+    "satScore": 1230,
+    "size": "Large",
+    "testOptional": true,
+    "campusSetting": "Urban/Suburban",
+    "studentPopulation": "≈90,000",
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": [
+      "Engineering",
+      "Business",
+      "Computer Science",
+      "Biology",
+      "Communications"
+    ],
+    "specializedPrograms": [
+      "Barrett Honors College",
+      "Online & ASU Sync Programs",
+      "Global Education Programs"
+    ],
+    "deadline": "Rolling admissions (check specific programs)"
+  },
+  {
+    "name": "Auburn University",
+    "location": "Auburn, Alabama",
+    "acceptanceRate": "≈ 81%",
+    "tuition": "$11,190 (in-state, undergraduate, 2024–25)",
+    "tuitionAmount": 11190,
+    "avgGPA": 3.5,
+    "satScore": 1230,
+    "size": "Large",
+    "testOptional": true,
+    "campusSetting": "Suburban",
+    "studentPopulation": "≈30,000",
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": [
+      "Engineering",
+      "Business",
+      "Agriculture",
+      "Nursing",
+      "Education"
+    ],
+    "specializedPrograms": [
+      "Honors College",
+      "Undergraduate Research Programs",
+      "Cooperative Education & Internship Programs"
+    ],
+    "deadline": "Rolling / check college-specific deadlines"
+  },
+  {
+    "name": "Auburn University at Montgomery",
+    "location": "Montgomery, Alabama",
+    "acceptanceRate": "≈ 100%",
+    "tuition": "$8,544 (in-state, undergraduate, 2024–25)",
+    "tuitionAmount": 8544,
+    "avgGPA": 3.0,
+    "satScore": null,
+    "size": "Medium",
+    "testOptional": true,
+    "campusSetting": "Urban/Suburban",
+    "studentPopulation": "≈5,500",
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": [
+      "Business",
+      "Nursing",
+      "Education",
+      "Arts & Sciences",
+      "Computer Science"
+    ],
+    "specializedPrograms": [
+      "Accelerated Degree Programs",
+      "Evening/Adult Learner Programs",
+      "Online Learning Options"
+    ],
+    "deadline": "Rolling Admissions"
+  },
+  {
+    "name": "Babson College",
+    "location": "Wellesley, Massachusetts",
+    "acceptanceRate": "≈ 17%",
+    "tuition": "$62,434 (2024–25 undergraduate tuition)",
+    "tuitionAmount": 62434,
+    "avgGPA": 4.03,
+    "satScore": 1460,
+    "size": "Small/Medium",
+    "testOptional": true,
+    "campusSetting": "Suburban",
+    "studentPopulation": 3200,
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Business Administration",
+      "Entrepreneurship",
+      "Finance",
+      "Marketing",
+      "Economics"
+    ],
+    "specializedPrograms": [
+      "Babson Entrepreneurial Thought & Action (ETA) curriculum",
+      "Global Field Experience",
+      "Undergraduate Research Opportunities"
+    ],
+    "deadline": "May 1 (Regular Decision)"
+  },
+  {
+    "name": "Baker University",
+    "location": "Baldwin City, Kansas",
+    "acceptanceRate": "≈ 92%",
+    "tuition": "$36,960 (2024–25 undergraduate tuition)",
+    "tuitionAmount": 36960,
+    "avgGPA": 3.37,
+    "satScore": 1110,
+    "size": "Small/Medium",
+    "testOptional": true,
+    "campusSetting": "Suburban/Rural",
+    "studentPopulation": 3500,
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Business",
+      "Education",
+      "Nursing",
+      "Arts & Sciences",
+      "Psychology"
+    ],
+    "specializedPrograms": [
+      "Honors Program",
+      "Adult & Online Programs",
+      "Undergraduate Research Programs"
+    ],
+    "deadline": "Rolling Admissions"
+  },
+  {
+    "name": "Ball State University",
+    "location": "Muncie, Indiana",
+    "acceptanceRate": "≈ 85%",
+    "tuition": "$11,242 (in-state, undergraduate, 2024–25)",
+    "tuitionAmount": 11242,
+    "avgGPA": 3.56,
+    "satScore": 1177,
+    "size": "Large",
+    "testOptional": true,
+    "campusSetting": "Suburban",
+    "studentPopulation": 22000,
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": [
+      "Education",
+      "Business",
+      "Architecture",
+      "Communications",
+      "Health Sciences"
+    ],
+    "specializedPrograms": [
+      "Teachers College programs",
+      "Research Opportunities in Applied Sciences",
+      "Honors College"
+    ],
+    "deadline": "Rolling Admissions"
+  },
+  {
+    "name": "Bard College",
+    "location": "Annandale-on-Hudson, New York",
+    "acceptanceRate": "≈ 52%",
+    "tuition": "$69,672 (2024–25 undergraduate tuition)",
+    "tuitionAmount": 69672,
+    "avgGPA": 3.86,
+    "satScore": 1370,
+    "size": "Small",
+    "testOptional": true,
+    "campusSetting": "Rural",
+    "studentPopulation": 2000,
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Political Studies",
+      "Economics",
+      "Psychology",
+      "Music",
+      "Visual Arts"
+    ],
+    "specializedPrograms": [
+      "Global & Off-Campus Programs",
+      "Undergraduate Research",
+      "Experimental Liberal Arts Curriculum"
+    ],
+    "deadline": "Jan 1 / Early Decision, May 1 Regular Decision"
+  },
+  {
+    "name": "Barton Community College",
+    "location": "Great Bend, Kansas",
+    "acceptanceRate": "100% (open enrollment) (per Niche) ",
+    "tuition": null,
+    "tuitionAmount": null,
+    "avgGPA": null,
+    "satScore": null,
+    "size": "Small",
+    "testOptional": true,
+    "campusSetting": "Rural",
+    "studentPopulation": "4393",
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": null,
+    "specializedPrograms": null,
+    "deadline": null
+  },
+  {
+    "name": "Bellarmine University",
+    "location": "Louisville, Kentucky",
+    "acceptanceRate": "≈ 93.6% (2023)",
+    "tuition": "$45,190 (undergraduate median tuition, 2023) ",
+    "tuitionAmount": 45190,
+    "avgGPA": "3.49 (Bellarmine reported average enrolled freshman GPA)",
+    "satScore": "1191 (average SAT at Bellarmine)",
+    "size": "Medium",
+    "testOptional": true,
+    "campusSetting": null,
+    "studentPopulation": "2993 (2023)",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": null,
+    "specializedPrograms": null,
+    "deadline": "Rolling"
+  },
+  {
+    "name": "Bates College",
+    "location": "Lewiston, Maine",
+    "acceptanceRate": "≈ 13% (recent)",
+    "tuition": "$70,146 (tuition & fees for 2024-2025)",
+    "tuitionAmount": 70146,
+    "avgGPA": null,
+    "satScore": null,
+    "size": "Small",
+    "testOptional": true,
+    "campusSetting": null,
+    "studentPopulation": "1684 (undergraduates)",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": null,
+    "specializedPrograms": null,
+    "deadline": "January 10"
+  },
+  {
+    "name": "Belmont University",
+    "location": "Nashville, Tennessee",
+    "acceptanceRate": "≈ 96% (per Scholarships.com)",
+    "tuition": "$43,750 (tuition & fees, 2025-26)",
+    "tuitionAmount": 43750,
+    "avgGPA": null,
+    "satScore": null,
+    "size": "Medium",
+    "testOptional": null,
+    "campusSetting": "Urban (in Nashville)",
+    "studentPopulation": "8910 (Fall 2022)",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": null,
+    "specializedPrograms": null,
+    "deadline": null
+  },
+  {
+    "name": "Bentley University",
+    "location": "Waltham, Massachusetts",
+    "acceptanceRate": "≈ 48.4% (2023, via DataUSA)",
+    "tuition": "$58,610 (tuition + room & board) (per CollegeData)",
+    "tuitionAmount": 58610,
+    "avgGPA": null,
+    "satScore": "1290–1403 (middle 50%)",
+    "size": "Medium",
+    "testOptional": null,
+    "campusSetting": null,
+    "studentPopulation": "5264 (total enrollment 2023)",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": null,
+    "specializedPrograms": null,
+    "deadline": "January 15 (regular)"
+  },
+  {
+    "name": "Berklee College of Music",
+    "location": "Boston, Massachusetts",
+    "publicPrivate": "Private",
+    "tuition": "$52,440 (tuition & fees, 2025-26)",
+    "tuitionAmount": 52440,
+    "acceptanceRate": "≈ 50% (recent) ",
+    "studentPopulation": "8448 (total enrollment)",
+    "testOptional": true,
+    "majors": null,
+    "specializedPrograms": null,
+    "deadline": "January 15 (fall admission)"
+  },
+  {
+    "name": "Binghamton University (SUNY)",
+    "location": "Binghamton, New York",
+    "publicPrivate": "Public",
+    "tuition": "$7,070 (in-state undergraduate tuition) / $28,970 (out-of-state) (2025-26)",
+    "tuitionAmount": 7070,
+    "acceptanceRate": "≈ 42% (recent)",
+    "avgGPA": null,
+    "satScore": 1390,
+    "studentPopulation": null,
+    "testOptional": null,
+    "majors": null,
+    "specializedPrograms": null,
+    "deadline": null
+  },
+  {
+    "name": "Bucknell University",
+    "location": "Lewisburg, Pennsylvania",
+    "publicPrivate": "Private",
+    "acceptanceRate": "≈ 32% (2023) (3,524 accepted of 11,010 applicants) ",
+    "tuition": "$64,772 (undergraduate tuition & fees) ",
+    "tuitionAmount": 64772,
+    "avgGPA": 3.62,
+    "satScore": "1340-1500",
+    "size": "Medium",
+    "testOptional": true,
+    "studentPopulation": "3892 (2023)",
+    "deadline": "January 10 (regular) "
+  },
+  {
+    "name": "Butler University",
+    "location": "Indianapolis, Indiana",
+    "publicPrivate": "Private",
+    "acceptanceRate": "≈ 85.9% (2023) (8,098 accepted of 9,431) ",
+    "tuition": "$48,900 (tuition, before aid) ",
+    "tuitionAmount": 48900,
+    "size": "Medium",
+    "testOptional": null,
+    "studentPopulation": "5763 (2023)",
+    "deadline": "February 1 (regular) "
+  },
+  {
+    "name": "Bunker Hill Community College",
+    "location": "Boston, Massachusetts",
+    "publicPrivate": "Public",
+    "acceptanceRate": "≈ 95% (applicants accepted) ",
+    "tuition": "$294/credit (New England regional rate for certain students) ",
+    "tuitionAmount": null,
+    "size": "Large",
+    "testOptional": true,
+    "studentPopulation": "8545 (2023)",
+    "financialAidAvailable": true
+  },
+  {
+    "name": "Berklee College of Music",
+    "location": "Boston, Massachusetts",
+    "publicPrivate": "Private",
+    "acceptanceRate": "≈ 50% (recent) ",
+    "tuition": "$52,440 (tuition & fees, 2025-26)",
+    "tuitionAmount": 52440,
+    "testOptional": true,
+    "studentPopulation": 8448,
+    "deadline": "January 15 (fall)"
+  },
+  {
+    "name": "Brigham Young University (BYU)",
+    "location": "Provo, Utah",
+    "publicPrivate": "Private (religiously affiliated)",
+    "acceptanceRate": "≈ 69% (2023)",
+    "tuition": "LDS (in-church) tuition: $6,888; Non-LDS tuition: $13,776 (2025-26 undergraduate tuition component)",
+    "tuitionAmount": null,
+    "avgGPA": null,
+    "satScore": "1290–1440 (middle 50%)",
+    "size": "Large",
+    "testOptional": true,
+    "studentPopulation": 29261,
+    "deadline": "December 15 (regular)"
+  },
+  {
+    "name": "Bridgewater College",
+    "location": "Bridgewater, Virginia",
+    "publicPrivate": "Private",
+    "acceptanceRate": null,
+    "tuition": null,
+    "tuitionAmount": null,
+    "avgGPA": null,
+    "satScore": null,
+    "size": "Small (≈ 1,421 total students)",
+    "testOptional": null,
+    "studentPopulation": 1421,
+    "majors": [
+      "Business and economics",
+      "Computer science",
+      "Education",
+      "Health and human sciences",
+      "Art & music",
+      "Biology & environmental science",
+      "Languages & cultures",
+      "History & political science",
+      "Psychology & sociology",
+      "Writing & literature"
+    ],
+    "deadline": null
+  },
+  {
+    "name": "Bridgewater State University",
+    "location": "Bridgewater, Massachusetts",
+    "publicPrivate": "Public",
+    "acceptanceRate": null,
+    "tuition": null,
+    "tuitionAmount": null,
+    "avgGPA": null,
+    "satScore": null,
+    "size": null,
+    "testOptional": null,
+    "studentPopulation": null,
+    "majors": null,
+    "specializedPrograms": null,
+    "deadline": null
+  },
+  {
+    "name": "Cabarrus College of Health Sciences",
+    "location": "Concord, North Carolina",
+    "acceptanceRate": 49,
+    "tuition": 16480,
+    "avgGPA": 3.13,
+    "satScore": 980,
+    "size": "Small",
+    "testOptional": false,
+    "campusSetting": "Suburban",
+    "studentPopulation": 661,
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": ["Nursing", "Health Sciences", "Medical Laboratory Technology"],
+    "specializedPrograms": [
+      "Bachelor of Science in Nursing",
+      "Master of Science in Nursing"
+    ],
+    "deadline": "Rolling Admissions"
+  },
+  {
+    "name": "Cabrillo College",
+    "location": "Aptos, California",
+    "acceptanceRate": 100,
+    "tuition": 1262,
+    "avgGPA": null,
+    "satScore": null,
+    "size": "Medium",
+    "testOptional": true,
+    "campusSetting": "Suburban",
+    "studentPopulation": 8024,
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": ["Liberal Arts", "Physical Education", "Business"],
+    "specializedPrograms": ["Nursing", "Early Childhood Education"],
+    "deadline": "Rolling Admissions"
+  },
+  {
+    "name": "Cairn University",
+    "location": "Langhorne, Pennsylvania",
+    "acceptanceRate": null,
+    "tuition": 33234,
+    "avgGPA": 3.51,
+    "satScore": 1118,
+    "size": "Small",
+    "testOptional": false,
+    "campusSetting": "Suburban",
+    "studentPopulation": null,
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": ["Biblical Studies", "Business Administration", "Education"],
+    "specializedPrograms": [
+      "Accelerated Degree Programs",
+      "Online Learning Options"
+    ],
+    "deadline": "Rolling Admissions"
+  },
+  {
+    "name": "Caldwell Community College and Technical Institute",
+    "location": "Hudson, North Carolina",
+    "acceptanceRate": 100,
+    "tuition": 1824,
+    "avgGPA": null,
+    "satScore": null,
+    "size": "Small",
+    "testOptional": true,
+    "campusSetting": "Rural",
+    "studentPopulation": 1190,
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": ["Liberal Arts", "Nursing", "Information Technology"],
+    "specializedPrograms": ["Nursing Program", "Technical Certifications"],
+    "deadline": "Rolling Admissions"
+  },
+  {
+    "name": "Caldwell University",
+    "location": "Caldwell, New Jersey",
+    "acceptanceRate": 66,
+    "tuition": 39820,
+    "avgGPA": 3.3,
+    "satScore": 1150,
+    "size": "Small",
+    "testOptional": false,
+    "campusSetting": "Suburban",
+    "studentPopulation": null,
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": ["Psychology", "Nursing", "Business Administration"],
+    "specializedPrograms": [
+      "Accelerated Nursing Program",
+      "Graduate Programs in Education"
+    ],
+    "deadline": "Rolling Admissions"
+  },
+  {
+    "name": "Calhoun Community College",
+    "location": "Decatur, Alabama",
+    "acceptanceRate": 100,
+    "tuition": 12480,
+    "avgGPA": null,
+    "satScore": null,
+    "size": "Medium",
+    "testOptional": true,
+    "campusSetting": "Suburban",
+    "studentPopulation": 8038,
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": [
+      "Liberal Arts",
+      "Manufacturing Engineering",
+      "Information Science"
+    ],
+    "specializedPrograms": [
+      "Technical Certifications",
+      "Workforce Development"
+    ],
+    "deadline": "Rolling Admissions"
+  },
+  {
+    "name": "California Baptist University",
+    "location": "Riverside, California",
+    "acceptanceRate": 74,
+    "tuition": 35000,
+    "avgGPA": 3.44,
+    "satScore": 1040,
+    "size": "Medium",
+    "testOptional": true,
+    "campusSetting": "Urban",
+    "studentPopulation": 9000,
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": ["Business Administration", "Nursing", "Engineering"],
+    "specializedPrograms": [
+      "Accelerated Nursing Program",
+      "Graduate Programs in Business"
+    ],
+    "deadline": "Rolling Admissions"
+  },
+  {
+    "name": "California Coast University",
+    "location": "Santa Ana, California",
+    "acceptanceRate": 91.7,
+    "tuition": null,
+    "avgGPA": null,
+    "satScore": null,
+    "size": "Small",
+    "testOptional": true,
+    "campusSetting": "Urban",
+    "studentPopulation": null,
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": ["Business Administration", "Psychology", "Health Sciences"],
+    "specializedPrograms": [
+      "Online Degree Programs",
+      "Self-Paced Learning Options"
+    ],
+    "deadline": "Rolling Admissions"
+  },
+  {
+    "name": "California College of the Arts",
+    "location": "Oakland, California",
+    "acceptanceRate": null,
+    "tuition": null,
+    "avgGPA": null,
+    "satScore": null,
+    "size": "Small",
+    "testOptional": true,
+    "campusSetting": "Urban",
+    "studentPopulation": null,
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": ["Fine Arts", "Design", "Architecture"],
+    "specializedPrograms": [
+      "Graduate Programs in Fine Arts",
+      "Community Engagement Initiatives"
+    ],
+    "deadline": "Rolling Admissions"
+  },
+  {
+    "name": "California Health Sciences University",
+    "location": "Clovis, California",
+    "acceptanceRate": null,
+    "tuition": null,
+    "avgGPA": null,
+    "satScore": null,
+    "size": "Small",
+    "testOptional": true,
+    "campusSetting": "Suburban",
+    "studentPopulation": null,
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": ["Pharmacy", "Health Sciences"],
+    "specializedPrograms": [
+      "Doctor of Pharmacy Program",
+      "Graduate Programs in Health Sciences"
+    ],
+    "deadline": "Rolling Admissions"
+  },
+  {
+    "name": "California Institute of the Arts",
+    "location": "Valencia, California",
+    "acceptanceRate": null,
+    "tuition": null,
+    "avgGPA": null,
+    "satScore": null,
+    "size": "Small",
+    "testOptional": true,
+    "campusSetting": "Suburban",
+    "studentPopulation": null,
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": ["Fine Arts", "Dance", "Theater"],
+    "specializedPrograms": [
+      "Graduate Programs in Fine Arts",
+      "Community Engagement Initiatives"
+    ],
+    "deadline": "Rolling Admissions"
+  },
+  {
+    "name": "California Institute of Integral Studies",
+    "location": "San Francisco, California",
+    "acceptanceRate": null,
+    "tuition": null,
+    "avgGPA": null,
+    "satScore": null,
+    "size": "Small",
+    "testOptional": true,
+    "campusSetting": "Urban",
+    "studentPopulation": null,
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": ["Psychology", "Integral Studies", "Expressive Arts Therapy"],
+    "specializedPrograms": [
+      "Graduate Programs in Psychology",
+      "Expressive Arts Therapy"
+    ],
+    "deadline": "Rolling Admissions"
+  },
+  {
+    "name": "California Institute of Technology",
+    "location": "Pasadena, California",
+    "acceptanceRate": 6.7,
+    "tuition": 54180,
+    "avgGPA": 4.18,
+    "satScore": 1570,
+    "size": "Small",
+    "testOptional": false,
+    "campusSetting": "Suburban",
+    "studentPopulation": 900,
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": ["Engineering", "Physics", "Computer Science"],
+    "specializedPrograms": [
+      "Undergraduate Research Opportunities",
+      "Graduate Programs in Science and Engineering"
+    ],
+    "deadline": "January 3"
+  },
+  {
+    "name": "California Lutheran University",
+    "location": "Thousand Oaks, California",
+    "acceptanceRate": null,
+    "tuition": null,
+    "avgGPA": null,
+    "satScore": null,
+    "size": "Medium",
+    "testOptional": true,
+    "campusSetting": "Suburban",
+    "studentPopulation": null,
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": ["Business Administration", "Psychology", "Communications"],
+    "specializedPrograms": [
+      "Graduate Programs in Business",
+      "Community Engagement Initiatives"
+    ],
+    "deadline": "Rolling Admissions"
+  },
+  {
+    "name": "California Miramar University",
+    "location": "San Diego, California",
+    "acceptanceRate": null,
+    "tuition": null,
+    "avgGPA": null,
+    "satScore": null,
+    "size": "Small",
+    "testOptional": true,
+    "campusSetting": "Urban",
+    "studentPopulation": null,
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Business Administration",
+      "Information Technology",
+      "Health Sciences"
+    ],
+    "specializedPrograms": [
+      "Online Degree Programs",
+      "Accelerated Degree Options"
+    ],
+    "deadline": "Rolling Admissions"
+  },
+  {
+    "name": "California Polytechnic State University",
+    "location": "San Luis Obispo, California",
+    "acceptanceRate": 30,
+    "tuition": 23900,
+    "avgGPA": 4.18,
+    "satScore": 1570,
+    "size": "Large",
+    "testOptional": false,
+    "campusSetting": "Suburban",
+    "studentPopulation": 20000,
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": [
+      "Engineering",
+      "Architecture",
+      "Business Administration",
+      "Agriculture",
+      "Science and Mathematics"
+    ],
+    "specializedPrograms": [
+      "Undergraduate Research Opportunities",
+      "Graduate Programs in Science and Engineering"
+    ],
+    "deadline": "November 30"
+  },
+  {
+    "name": "California State Polytechnic University Pomona",
+    "location": "Pomona, California",
+    "acceptanceRate": 74,
+    "tuition": 16320,
+    "avgGPA": 3.69,
+    "satScore": 1140,
+    "size": "Large",
+    "testOptional": true,
+    "campusSetting": "Suburban",
+    "studentPopulation": 26000,
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": [
+      "Engineering",
+      "Business Administration",
+      "Science",
+      "Agriculture",
+      "Education"
+    ],
+    "specializedPrograms": [
+      "Hands-on Learning Opportunities",
+      "Graduate Programs in Engineering"
+    ],
+    "deadline": "November 30"
+  },
+  {
+    "name": "California State University Bakersfield",
+    "location": "Bakersfield, California",
+    "acceptanceRate": 85,
+    "tuition": 8512,
+    "avgGPA": 3.5,
+    "satScore": 1040,
+    "size": "Medium",
+    "testOptional": true,
+    "campusSetting": "Urban",
+    "studentPopulation": 8000,
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": [
+      "Business Administration",
+      "Psychology",
+      "Nursing",
+      "Engineering",
+      "Education"
+    ],
+    "specializedPrograms": ["Graduate Programs in Business", "Nursing Program"],
+    "deadline": "November 30"
+  },
+  {
+    "name": "Cornell University",
+    "location": "Ithaca, New York",
+    "acceptanceRate": 8,
+    "tuition": 63300,
+    "tuitionAmount": 63300,
+    "avgGPA": 4.18,
+    "satScore": 1540,
+    "size": "Large",
+    "testOptional": false,
+    "campusSetting": "Rural",
+    "studentPopulation": 23500,
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Engineering",
+      "Business Administration",
+      "Biological Sciences",
+      "Social Sciences",
+      "Physical Sciences",
+      "Humanities"
+    ],
+    "specializedPrograms": [
+      "Cornell SC Johnson College of Business",
+      "College of Engineering",
+      "College of Agriculture and Life Sciences",
+      "College of Arts and Sciences",
+      "College of Architecture, Art, and Planning",
+      "College of Human Ecology",
+      "School of Industrial and Labor Relations"
+    ],
+    "deadline": "November 1"
+  },
+  {
+    "name": "Northwestern University",
+    "location": "Evanston, Illinois",
+    "acceptanceRate": 7.4,
+    "tuition": 69375,
+    "avgGPA": 3.74,
+    "satScore": 1530,
+    "size": "Large",
+    "testOptional": false,
+    "campusSetting": "Lakeside",
+    "studentPopulation": 16000,
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Journalism",
+      "Engineering",
+      "Business Administration",
+      "Computer Science",
+      "Biological Sciences",
+      "Social Sciences",
+      "Humanities"
+    ],
+    "specializedPrograms": [
+      "Medill School of Journalism",
+      "McCormick School of Engineering",
+      "Kellogg School of Management"
+    ],
+    "deadline": "November 1"
+  },
+  {
+    "name": "Johns Hopkins University",
+    "location": "Baltimore, Maryland",
+    "acceptanceRate": "5.7%",
+    "tuition": "$66,670 (2024-25)",
+    "tuitionAmount": 66670,
+    "avgGPA": 3.95,
+    "satScore": 1550,
+    "size": "Medium",
+    "testOptional": false,
+    "campusSetting": "Urban",
+    "studentPopulation": "Large",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Biomedical Engineering",
+      "Public Health",
+      "Computer Science",
+      "Biology",
+      "Psychology",
+      "Political Science",
+      "Economics",
+      "Electrical Engineering"
+    ],
+    "specializedPrograms": [
+      "School of Medicine",
+      "Whiting School of Engineering",
+      "Bloomberg School of Public Health",
+      "Peabody Institute",
+      "Carey Business School"
+    ],
+    "deadline": "November 1"
+  },
+  {
+    "name": "Dartmouth College",
+    "location": "Hanover, New Hampshire",
+    "acceptanceRate": "5.3%",
+    "tuition": "$69,207 (2024–25)",
+    "tuitionAmount": 69207,
+    "avgGPA": 4.11,
+    "satScore": 1500,
+    "size": "Small",
+    "testOptional": false,
+    "campusSetting": "Rural",
+    "studentPopulation": "6,746",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Engineering",
+      "Biology",
+      "Psychology",
+      "Economics",
+      "Government",
+      "Computer Science"
+    ],
+    "specializedPrograms": [
+      "Thayer School of Engineering",
+      "Geisel School of Medicine",
+      "Tuck School of Business",
+      "Guarini School of Graduate and Advanced Studies"
+    ],
+    "deadline": "November 1"
+  },
+  {
+    "name": "Vanderbilt University",
+    "location": "Nashville, Tennessee",
+    "acceptanceRate": "7.3%",
+    "tuition": "$66,266 (2024–25)",
+    "tuitionAmount": 66266,
+    "avgGPA": 3.87,
+    "satScore": 1500,
+    "size": "Medium",
+    "testOptional": false,
+    "campusSetting": "Urban/Suburban",
+    "studentPopulation": "Large",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Engineering",
+      "Economics",
+      "Psychology",
+      "Biology",
+      "Political Science",
+      "Computer Science",
+      "Education"
+    ],
+    "specializedPrograms": [
+      "Peabody College of Education and Human Development",
+      "School of Engineering",
+      "Owen Graduate School of Management",
+      "Vanderbilt University Medical Center"
+    ],
+    "deadline": "November 1"
+  },
+  {
+    "name": "Rice University",
+    "location": "Houston, Texas",
+    "acceptanceRate": "7.5%",
+    "tuition": "$66,540 (2024–25)",
+    "tuitionAmount": 66540,
+    "avgGPA": 4.17,
+    "satScore": 1535,
+    "size": "Medium",
+    "testOptional": true,
+    "campusSetting": "Urban",
+    "studentPopulation": "4,480",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Engineering",
+      "Computer Science",
+      "Biology",
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Economics",
+      "Political Science"
+    ],
+    "specializedPrograms": [
+      "George R. Brown School of Engineering",
+      "Wiess School of Natural Sciences",
+      "Jones Graduate School of Business",
+      "School of Architecture",
+      "School of Humanities"
+    ],
+    "deadline": "November 1"
+  },
+  {
+    "name": "University of Notre Dame",
+    "location": "Notre Dame, Indiana",
+    "acceptanceRate": "9%",
+    "tuition": "$67,607 (2025–26)",
+    "tuitionAmount": 67607,
+    "avgGPA": 4.13,
+    "satScore": 1500,
+    "size": "Medium",
+    "testOptional": false,
+    "campusSetting": "Suburban",
+    "studentPopulation": "8,800",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Business",
+      "Engineering",
+      "Biology",
+      "Political Science",
+      "Psychology",
+      "Economics",
+      "Computer Science"
+    ],
+    "specializedPrograms": [
+      "Mendoza College of Business",
+      "College of Engineering",
+      "College of Science",
+      "College of Arts and Letters",
+      "Keough School of Global Affairs"
+    ],
+    "deadline": "November 1"
+  },
+  {
+    "name": "Washington University in St. Louis",
+    "location": "St. Louis, Missouri",
+    "acceptanceRate": "12%",
+    "tuition": "$64,500 (2024–25)",
+    "tuitionAmount": 64500,
+    "avgGPA": 4.19,
+    "satScore": 1540,
+    "size": "Medium",
+    "testOptional": false,
+    "campusSetting": "Urban",
+    "studentPopulation": "8,219",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Pre-Med",
+      "Business",
+      "Engineering",
+      "Computer Science",
+      "Biology",
+      "Psychology",
+      "Political Science"
+    ],
+    "specializedPrograms": [
+      "Olin Business School",
+      "McKelvey School of Engineering",
+      "College of Arts & Sciences",
+      "School of Medicine",
+      "Brown School of Social Work"
+    ],
+    "deadline": "January 2"
+  },
+  {
+    "name": "Georgetown University",
+    "location": "Washington, D.C.",
+    "acceptanceRate": "13%",
+    "tuition": "$68,016 (2024‑25, undergraduate tuition & fees)",
+    "tuitionAmount": 68016,
+    "avgGPA": 3.7,
+    "satScore": 1500,
+    "size": "Large",
+    "testOptional": false,
+    "campusSetting": "Urban",
+    "studentPopulation": null,
+    "publicPrivate": "Private (Jesuit)",
+    "financialAidAvailable": true,
+    "majors": [
+      "International Relations",
+      "Political Science",
+      "Business",
+      "Pre‑Med / Biology",
+      "Economics",
+      "Law / Legal Studies"
+    ],
+    "specializedPrograms": [
+      "Walsh School of Foreign Service",
+      "McDonough School of Business",
+      "School of Health",
+      "Georgetown Law"
+    ],
+    "deadline": "January 10"
+  },
+  {
+    "name": "University of North Carolina at Chapel Hill",
+    "location": "Chapel Hill, North Carolina",
+    "acceptanceRate": "25%",
+    "tuition": "$9,159 (in-state), $36,159 (out-of-state) for 2024–25",
+    "tuitionAmount": 9159,
+    "avgGPA": 4.43,
+    "satScore": 1450,
+    "size": "Large",
+    "testOptional": true,
+    "campusSetting": "Suburban",
+    "studentPopulation": "20,041 undergraduates",
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": [
+      "Business",
+      "Journalism & Media",
+      "Health Sciences",
+      "Biology",
+      "Political Science",
+      "Economics",
+      "Computer Science"
+    ],
+    "specializedPrograms": [
+      "Kenan-Flagler Business School",
+      "School of Media and Journalism",
+      "Gillings School of Global Public Health",
+      "School of Medicine",
+      "School of Law"
+    ],
+    "deadline": "January 15"
+  },
+  {
+    "name": "University of Illinois Urbana-Champaign",
+    "location": "Champaign, Illinois",
+    "acceptanceRate": "36.6%",
+    "tuition": "$18,046–$23,426 (in-state, 2025–26)",
+    "tuitionAmount": 18046,
+    "avgGPA": 3.89,
+    "satScore": 1440,
+    "size": "Large",
+    "testOptional": false,
+    "campusSetting": "Urban/Suburban",
+    "studentPopulation": "Approximately 34,000 undergraduates",
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": [
+      "Engineering",
+      "Computer Science",
+      "Business",
+      "Biology",
+      "Economics",
+      "Physics",
+      "Psychology"
+    ],
+    "specializedPrograms": [
+      "Grainger College of Engineering",
+      "Gies College of Business",
+      "College of Media",
+      "College of Liberal Arts & Sciences",
+      "School of Information Sciences"
+    ],
+    "deadline": "January 5"
+  },
+  {
+    "name": "University of Wisconsin‑Madison",
+    "location": "Madison, Wisconsin",
+    "acceptanceRate": "43%",
+    "tuition": "$10,006 (in‑state, 2024‑25); $40,505 (out‑of‑state, 2024‑25)",
+    "tuitionAmount": 10006,
+    "avgGPA": null,
+    "satScore": 1450,
+    "size": "Large",
+    "testOptional": false,
+    "campusSetting": "Urban/Suburban",
+    "studentPopulation": "35,399 undergraduates",
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": [
+      "Engineering",
+      "Computer Science",
+      "Business",
+      "Biology",
+      "Psychology",
+      "Economics"
+    ],
+    "specializedPrograms": [
+      "Wisconsin School of Business",
+      "College of Engineering",
+      "School of Medicine and Public Health",
+      "School of Education"
+    ],
+    "deadline": "January 15"
+  },
+  {
+    "name": "University of California, San Diego",
+    "location": "La Jolla, California",
+    "acceptanceRate": "28.4%",
+    "tuition": "$16,758 (in-state, 2025–26); $50,958 (out-of-state, 2025–26)",
+    "tuitionAmount": 16758,
+    "avgGPA": "4.11–4.29 (weighted)",
+    "satScore": null,
+    "size": "Large",
+    "testOptional": true,
+    "campusSetting": "Urban/Suburban",
+    "studentPopulation": "Approximately 33,000 undergraduates",
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": [
+      "Biological Sciences",
+      "Engineering",
+      "Computer Science",
+      "Psychology",
+      "Economics",
+      "Political Science",
+      "Environmental Studies"
+    ],
+    "specializedPrograms": [
+      "Jacobs School of Engineering",
+      "Rady School of Management",
+      "Scripps Institution of Oceanography",
+      "School of Global Policy and Strategy"
+    ],
+    "deadline": "November 30"
+  },
+  {
+    "name": "University of California, Davis",
+    "location": "Davis, California",
+    "acceptanceRate": "44.6%",
+    "tuition": "$14,934 (in-state, 2025–26); $52,536 (out-of-state, 2025–26)",
+    "tuitionAmount": 14934,
+    "avgGPA": "4.00–4.26 (weighted)",
+    "satScore": 1280,
+    "size": "Large",
+    "testOptional": true,
+    "campusSetting": "Urban/Suburban",
+    "studentPopulation": "Approximately 30,000 undergraduates",
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": [
+      "Agricultural and Environmental Sciences",
+      "Biological Sciences",
+      "Veterinary Medicine",
+      "Engineering",
+      "Psychology",
+      "Economics",
+      "Political Science"
+    ],
+    "specializedPrograms": [
+      "College of Agricultural and Environmental Sciences",
+      "College of Biological Sciences",
+      "School of Veterinary Medicine",
+      "College of Engineering",
+      "College of Letters and Science"
+    ],
+    "deadline": "November 30"
+  },
+
+  {
+    "name": "University of California, Irvine",
+    "location": "Irvine, California",
+    "acceptanceRate": "21%",
+    "tuition": "$15,348 (in-state), $48,084 (out-of-state)",
+    "tuitionAmount": 15348,
+    "avgGPA": 4.1,
+    "satScore": 1360,
+    "size": "Large",
+    "testOptional": true,
+    "campusSetting": "Suburban",
+    "studentPopulation": "Large (~37,000 students)",
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": [
+      "Computer Science",
+      "Criminology, Law and Society",
+      "Public Health",
+      "Biological Sciences",
+      "Business Administration",
+      "Engineering"
+    ],
+    "specializedPrograms": [
+      "Undergraduate Research Opportunities Program (UROP)",
+      "Campuswide Honors Collegium",
+      "UC Education Abroad Program",
+      "Health Sciences Advising"
+    ],
+    "deadline": "November 30"
+  },
+  {
+    "name": "University of Texas at Dallas",
+    "location": "Richardson, Texas",
+    "acceptanceRate": "65%",
+    "tuition": "$14,564 (in-state), $39,764 (out-of-state)",
+    "tuitionAmount": 14564,
+    "avgGPA": 3.71,
+    "satScore": 1280,
+    "size": "Large",
+    "testOptional": true,
+    "campusSetting": "Suburban",
+    "studentPopulation": "≈31,570 (21,317 undergraduates)",
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": [
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Business Administration",
+      "Accounting",
+      "Finance",
+      "Biology"
+    ],
+    "specializedPrograms": [
+      "Erik Jonsson School of Engineering and Computer Science",
+      "Naveen Jindal School of Management",
+      "School of Natural Sciences and Mathematics",
+      "School of Behavioral and Brain Sciences"
+    ],
+    "deadline": "June 1"
+  },
+  {
+    "name": "Purdue University",
+    "location": "West Lafayette, Indiana",
+    "acceptanceRate": "60%",
+    "tuition": "$10,002 (in-state), $28,804 (out-of-state)",
+    "tuitionAmount": 10002,
+    "avgGPA": 3.76,
+    "satScore": 1320,
+    "size": "Large",
+    "testOptional": true,
+    "campusSetting": "Suburban",
+    "studentPopulation": "Approximately 31,000 undergraduates",
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": [
+      "Aerospace Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science",
+      "Business Administration",
+      "Agricultural Engineering",
+      "Biological Sciences"
+    ],
+    "specializedPrograms": [
+      "College of Engineering",
+      "Krannert School of Management",
+      "School of Aeronautics and Astronautics",
+      "Purdue Polytechnic Institute"
+    ],
+    "deadline": "January 15"
+  },
+  {
+    "name": "Pennsylvania State University",
+    "location": "University Park, Pennsylvania",
+    "acceptanceRate": "58%",
+    "tuition": "$20,468 (in-state), $42,860 (out-of-state)",
+    "tuitionAmount": 20468,
+    "avgGPA": 3.68,
+    "satScore": 1330,
+    "size": "Large",
+    "testOptional": true,
+    "campusSetting": "Suburban",
+    "studentPopulation": "Approximately 46,000 undergraduates",
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": [
+      "Engineering",
+      "Business",
+      "Computer Science",
+      "Finance",
+      "Biology",
+      "Economics",
+      "Psychology"
+    ],
+    "specializedPrograms": [
+      "Smeal College of Business",
+      "College of Engineering",
+      "College of Information Sciences and Technology",
+      "School of Hospitality Management"
+    ],
+    "deadline": "January 5"
+  },
+  {
+    "name": "University of Georgia",
+    "location": "Athens, Georgia",
+    "acceptanceRate": "37.2%",
+    "tuition": "$11,450 (in-state), $31,688 (out-of-state)",
+    "tuitionAmount": 11450,
+    "avgGPA": 3.81,
+    "satScore": 1270,
+    "size": "Large",
+    "testOptional": false,
+    "campusSetting": "Urban",
+    "studentPopulation": "Approximately 30,000 undergraduates",
+    "publicPrivate": "Public",
+    "financialAidAvailable": true,
+    "majors": [
+      "Business Administration",
+      "Agricultural Economics",
+      "Psychology",
+      "Biology",
+      "Engineering",
+      "Education",
+      "Journalism"
+    ],
+    "specializedPrograms": [
+      "Terry College of Business",
+      "College of Agricultural and Environmental Sciences",
+      "College of Engineering",
+      "College of Education"
+    ],
+    "deadline": "January 1"
+  },
+  {
+    "name": "Williams College",
+    "location": "Williamstown, Massachusetts",
+    "acceptanceRate": "8.5%",
+    "tuition": "$72,170",
+    "tuitionAmount": 72170,
+    "avgGPA": 4.13,
+    "satScore": 1530,
+    "size": "Small",
+    "testOptional": true,
+    "campusSetting": "Rural",
+    "studentPopulation": "Approximately 2,000 undergraduates",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Economics",
+      "Political Science",
+      "Biology",
+      "Psychology",
+      "English",
+      "History",
+      "Physics"
+    ],
+    "specializedPrograms": [
+      "Economics Department",
+      "Political Science Department",
+      "Biology Department",
+      "Psychology Department",
+      "English Department",
+      "History Department",
+      "Physics Department"
+    ],
+    "deadline": "January 5"
+  },
+  {
+    "name": "Amherst College",
+    "location": "Amherst, Massachusetts",
+    "acceptanceRate": "11%",
+    "tuition": "$80,890",
+    "tuitionAmount": 80890,
+    "avgGPA": 4.12,
+    "satScore": 1520,
+    "size": "Small",
+    "testOptional": true,
+    "campusSetting": "Small Town/Rural",
+    "studentPopulation": "Approximately 1,900 undergraduates",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Economics",
+      "Political Science",
+      "Biology",
+      "English",
+      "History",
+      "Psychology",
+      "Computer Science"
+    ],
+    "specializedPrograms": [
+      "Open Curriculum (no required core courses)",
+      "Five College Consortium (courses at Amherst, UMass Amherst, Mount Holyoke, Hampshire, Smith)",
+      "Undergraduate Research Opportunities",
+      "Center for Humanistic Inquiry",
+      "Amherst Global Engagement Programs"
+    ],
+    "deadline": "January 1"
+  },
+  {
+    "name": "Swarthmore College",
+    "location": "Swarthmore, Pennsylvania",
+    "acceptanceRate": "8%",
+    "tuition": "$60,594",
+    "tuitionAmount": 60594,
+    "avgGPA": 4.12,
+    "satScore": 1520,
+    "size": "Small",
+    "testOptional": true,
+    "campusSetting": "Suburban",
+    "studentPopulation": "Approximately 1,600 undergraduates",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Engineering",
+      "Economics",
+      "Political Science",
+      "Biology",
+      "Psychology",
+      "History",
+      "Computer Science"
+    ],
+    "specializedPrograms": [
+      "Engineering Program (unique for a liberal arts college)",
+      "Honors Program",
+      "Undergraduate Research Opportunities",
+      "Tri-College Consortium with Bryn Mawr and Haverford",
+      "Lang Center for Civic and Social Responsibility"
+    ],
+    "deadline": "January 5"
+  },
+  {
+    "name": "Pomona College",
+    "location": "Claremont, California",
+    "acceptanceRate": "6.7%",
+    "tuition": "$79,700",
+    "tuitionAmount": 79700,
+    "avgGPA": 4.05,
+    "satScore": 1530,
+    "size": "Small",
+    "testOptional": true,
+    "campusSetting": "Suburban",
+    "studentPopulation": "Approximately 1,700 undergraduates",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Economics",
+      "Biology",
+      "Political Science",
+      "Psychology",
+      "Computer Science",
+      "Environmental Analysis",
+      "History"
+    ],
+    "specializedPrograms": [
+      "Claremont Colleges Consortium (courses and resources across 5 colleges)",
+      "Undergraduate Research Opportunities",
+      "Pomona Scholars Program",
+      "Pomona Summer Undergraduate Research Program",
+      "Keck Science Department Collaborative Programs"
+    ],
+    "deadline": "January 3"
+  },
+
+  {
+    "name": "Wellesley College",
+    "location": "Wellesley, Massachusetts",
+    "acceptanceRate": "13%",
+    "tuition": "$78,900",
+    "tuitionAmount": 78900,
+    "avgGPA": 4.11,
+    "satScore": 1500,
+    "size": "Small",
+    "testOptional": true,
+    "campusSetting": "Suburban",
+    "studentPopulation": "Approximately 2,400 undergraduates",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Economics",
+      "Political Science",
+      "Biology",
+      "Psychology",
+      "Computer Science",
+      "English",
+      "History"
+    ],
+    "specializedPrograms": [
+      "MIT Cross-Registration Program",
+      "Undergraduate Research Opportunities",
+      "Wellesley Centers for Women",
+      "Davis Degree Program (joint degree with MIT)",
+      "Leadership and Public Service Programs"
+    ],
+    "deadline": "January 1"
+  },
+  {
+    "name": "Middlebury College",
+    "location": "Middlebury, Vermont",
+    "acceptanceRate": "15%",
+    "tuition": "$79,410",
+    "tuitionAmount": 79410,
+    "avgGPA": 4.05,
+    "satScore": 1480,
+    "size": "Small",
+    "testOptional": true,
+    "campusSetting": "Rural",
+    "studentPopulation": "Approximately 2,500 undergraduates",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Economics",
+      "Political Science",
+      "Biology",
+      "Environmental Studies",
+      "English",
+      "History",
+      "Languages"
+    ],
+    "specializedPrograms": [
+      "Language Schools (Summer Language Programs)",
+      "Environmental Studies Program",
+      "Bread Loaf School of English",
+      "Undergraduate Research Opportunities",
+      "Middlebury Institute of International Studies at Monterey (graduate-level consortium)"
+    ],
+    "deadline": "January 1"
+  },
+  {
+    "name": "Bowdoin College",
+    "location": "Brunswick, Maine",
+    "acceptanceRate": "6.8%",
+    "tuition": "$71,070",
+    "tuitionAmount": 71070,
+    "avgGPA": 4.001,
+    "satScore": 1470,
+    "size": "Small",
+    "testOptional": true,
+    "campusSetting": "Small Town/Rural",
+    "studentPopulation": "Approximately 1,800 undergraduates",
+    "publicPrivate": "Private",
+    "financialAidAvailable": true,
+    "majors": [
+      "Economics",
+      "Political Science",
+      "Biology",
+      "Environmental Studies",
+      "English",
+      "History",
+      "Psychology",
+      "Computer Science"
+    ],
+    "specializedPrograms": [
+      "Arctic Studies",
+      "Coastal Studies",
+      "Engineering Dual-Degree Program",
+      "Legal Studies",
+      "Health Professions Advising"
+    ],
+    "deadline": "January 5"
+  }
+]

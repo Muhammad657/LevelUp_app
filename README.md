@@ -1,21 +1,44 @@
-<<<<<<< HEAD
-# flutter_club
+# 🎓 LevelUp — College Admissions Companion App
 
-A new Flutter project.
+**LevelUp** is an all-in-one, free platform that helps simplify and strengthen the college admissions journey.  
 
-## Getting Started
+The home page greets each user personally and displays:
+- Their **personalized college list**
+- A **year-by-year checklist** to help them stay on track for their dream college  
 
-This project is a starting point for a Flutter application.
+It also includes:
+- An **Admissions Calculator** that estimates acceptance chances based on GPA, test scores, and extracurriculars  
+- A **College Search Tool** with filters for acceptance rate, location, and academic atmosphere  
+- A **Scholarship Database** where users can browse, find, and save their top opportunities  
 
-A few resources to get you started if this is your first Flutter project:
+Additionally:
+- The **Extracurricular Recommendation Page** uses the OpenAI API to analyze a student’s interests and recommend activities that enhance their profile  
+- **GradMate**, an AI-powered college counseling assistant, offers personalized guidance on applications, essays, test prep, and extracurricular strategy — all while staying aware of the user’s stats  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The **Profile Page** lets students store personal details like name, grade, and avatar, as well as academic stats such as test scores, GPA, activities, and interests.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# LevelUp_app
-Level Up is a free, all-in-one app that simplifies the college admissions journey. It greets users with a personalized college list, year-by-year checklist, and an admissions calculator. Students can explore colleges, find scholarships, get AI-powered activity suggestions, chat with GradMate for guidance, and track stats on their profile.
->>>>>>> 41a13cc3a9e49e5edea871dd85d175de45b46024
+---
+
+## ⚠️ Note on Data Completeness
+
+The **college list** and **scholarship list** are still under development and not yet complete.  
+They currently serve as a functional preview and will receive future data updates and improvements.
+
+---
+
+## 🧠 Project Structure
+
+This is a **Flutter project**.  
+The main application logic is located in the **`lib/levelup/`** folder — that’s where the core code for LevelUp resides.  
+
+Other files in `lib/` support general configuration, navigation, and shared widgets.
+
+---
+
+## 🛠️ Getting Started (Developers)
+
+To run this project locally:
+
+```bash
+flutter pub get
+flutter run

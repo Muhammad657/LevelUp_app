@@ -1,8 +1,8 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_club/showcase_project/awards.dart';
-import 'package:flutter_club/showcase_project/student_form_1.dart';
+import 'package:flutter_club/Levelup/awards.dart';
+import 'package:flutter_club/Levelup/student_form_1.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:google_fonts/google_fonts.dart';
 

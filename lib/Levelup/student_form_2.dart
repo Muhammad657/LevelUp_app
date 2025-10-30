@@ -2,18 +2,18 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_club/showcase_project/home_project.dart';
+import 'package:flutter_club/Levelup/home_project.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-class HomePage extends StatefulWidget {
-  const HomePage({super.key});
+class StudentForm2 extends StatefulWidget {
+  const StudentForm2({super.key});
 
   @override
-  State<HomePage> createState() => _HomePageState();
+  State<StudentForm2> createState() => _StudentForm2State();
 }
 
-class _HomePageState extends State<HomePage> {
+class _StudentForm2State extends State<StudentForm2> {
   TextEditingController nameController = TextEditingController();
   TextEditingController schoolController = TextEditingController();
   TextEditingController gradeController = TextEditingController();
@@ -219,12 +219,7 @@ class _HomePageState extends State<HomePage> {
                                             "grade": gradeController.text
                                                 .trim(),
                                           }, SetOptions(merge: true));
-                                      Navigator.push(
-                                        context,
-                                        MaterialPageRoute(
-                                          builder: (context) => HomePage2(),
-                                        ),
-                                      );
+                                      Navigator.pop(context);
                                     },
                                     child: Text(
                                       "Continue",

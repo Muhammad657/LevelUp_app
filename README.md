@@ -21,8 +21,8 @@ The **Profile Page** lets students store personal details like name, grade, and 
 
 ## ⚠️ Note on Data Completeness
 
-The **college list** and **scholarship list** are still under development and not yet complete.  
-They currently serve as a functional preview and will receive future data updates and improvements.
+Currently, only **3–4 colleges and scholarships** are fully completed.  
+This will be **expanded and updated in the future**, as new data and features are added.
 
 ---
 

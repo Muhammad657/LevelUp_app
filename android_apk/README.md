@@ -42,6 +42,4 @@ If you run into any problems installing or using the app, please open an **issue
 
 ---
 
-**Developed by:**  
-🧠 *Muhammad Taqi & the LevelUp Team*  
-💡 *Empowering motivation, consistency, and success through clean design.*
+**LevelUp Team**  

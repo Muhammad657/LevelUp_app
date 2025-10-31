@@ -49,5 +49,5 @@ flutter_icons: # 👈 separate root-level config
 flutter:
   uses-material-design: true
   assets:
-    - lib/showcase_project/images/
-    - lib/showcase_project/images/applelogo2.png
+    - lib/Levelup/images/
+    - lib/Levelup/images/applelogo2.png

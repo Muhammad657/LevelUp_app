@@ -38,7 +38,7 @@ It’s not from the Google Play Store, but it can be installed manually on any A
 ---
 
 ## 💬 Support
-If you run into any problems installing or using the app, please open an **issue** on this GitHub repo or contact the developer.
+If you run into any problems installing or using the app, please open an **issue** on this GitHub repo or contact the developer at muhammadtaqiulla@gmail.com.
 
 ---
 

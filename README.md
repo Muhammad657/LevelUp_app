@@ -31,7 +31,7 @@ This will be **expanded and updated in the future**, as new data and features ar
 This is a **Flutter project**.  
 The main application logic is located in the **`lib/levelup/`** folder — that’s where the core code for LevelUp resides.  
 
-Other files in `lib/` support general configuration, navigation, and shared widgets **that are not in use.**
+Other files in lib/ handle general configuration, navigation, and shared widgets. **The state_management folder is not currently in use and can be safely deleted after downloading the project.**
 
 ---
 
